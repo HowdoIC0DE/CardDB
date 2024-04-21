@@ -1,0 +1,2 @@
+# CardDB
+Database for TCG
